@@ -1,6 +1,7 @@
 name: MarcFoley
 favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.67027
 title: Developer
 cta:
   domain: null
@@ -15,8 +16,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#070803'
+    - '#886c60'
+    - '#a0a09e'
+    - '#bcbebd'
+    - '#f9d6a5'
+  brandStrength: 0.4375
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
