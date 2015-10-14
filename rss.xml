@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Developer]]></title>
+        <description><![CDATA[Developer]]></description>
+        <link>https://thegrid.ai/marcfoley/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 14 Oct 2015 07:42:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcfoley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing out The Grid R02]]></title>
+            <description><![CDATA[<article><h1>Testing out The Grid R02</h1><p>Click the pencil icon in the bottom left to read more...</p></article>]]></description>
+            <link>https://thegrid.ai/marcfoley/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">1955324d-69fc-4dd3-8e6b-9617b407a069</guid>
+            <pubDate>Wed, 14 Oct 2015 07:41:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A short review of the grid]]></title>
+            <description><![CDATA[<article><h1>A short review of the grid</h1><p>Testing out the Grid</p></article>]]></description>
+            <link>https://thegrid.ai/marcfoley/a-short-review-of-the-grid/index.html</link>
+            <guid isPermaLink="false">2a6200fe-dd6b-49d8-97b1-643b8ae21f50</guid>
+            <pubDate>Tue, 13 Oct 2015 16:42:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
